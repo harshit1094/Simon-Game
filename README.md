@@ -6,6 +6,7 @@ after that I user javascript to manipuleat the document ,Here when user type any
 then user have to click that button then if the choosen  color is correct then it will again randomly select any colour out of four, 
 But if you choose wrong colour then the it will show "Game Over " header .
 
-So have a play arroud and give your feedback on my linkedin.
+So have a play arroud and give me your feedback on my linkedin DM.
+LinkedIn :- https://www.linkedin.com/in/harshit-patel
 
 live server link :- https://harshit1094.github.io/Simon-Game/
