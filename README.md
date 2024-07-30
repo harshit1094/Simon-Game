@@ -7,6 +7,6 @@ then user have to click that button then if the choosen  color is correct then i
 But if you choose wrong colour then the it will show "Game Over " header .
 
 So have a play arroud and give me your feedback on my linkedin DM.
-LinkedIn :- https://www.linkedin.com/in/harshit-patel
+LinkedIn :- https://www.linkedin.com/in/harshit-patel-334584233/
 
 live server link :- https://harshit1094.github.io/Simon-Game/
