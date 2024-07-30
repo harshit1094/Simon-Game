@@ -8,4 +8,4 @@ But if you choose wrong colour then the it will show "Game Over " header .
 
 So have a play arroud and give your feedback on my linkedin.
 
-live server link :-
+live server link :- https://harshit1094.github.io/Simon-Game/
